@@ -1,5 +1,5 @@
 #include "function_pointers.h"
-/*8
+/**
  * int_index - return index place if comparison = true, else -1
  * @array: array
  * @size: size of elememnts in array
